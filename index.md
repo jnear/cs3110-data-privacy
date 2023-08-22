@@ -277,9 +277,9 @@ Schedule of topics:
 | ---------: | ------------------------------------------------------------------------------------ | --------- |
 | 8/28/23    | Intro to data privacy; de-identification; re-identification (no exercise)            | Ch. 1     |
 | 9/4/23     | k-Anonymity and l-Diversity (no class Monday)                                        | Ch. 2     |
-| 9/11/23    | Intro to differential privacy; sensitivity; Laplace mechanism                        | Ch. 3     |
-| 9/18/23    | Post-processing; composition & privacy budget; unit of privacy (no class Friday)     | Ch. 4, 5  |
-| 9/25/23    | Sensitivity & clipping; approximate DP; Advanced composition; Gaussian mechanism     | Ch. 6     |
+| 9/11/23    | Intro to differential privacy; Laplace mechanism (no class Friday)                   | Ch. 3     |
+| 9/18/23    | Sensitivity; post-processing; composition & privacy budget; unit of privacy          | Ch. 4, 5  |
+| 9/25/23    | Clipping; approximate DP; Advanced composition; Gaussian mechanism                   | Ch. 6     |
 | 10/2/23    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | Ch. 7     |
 | 10/9/23    | *Intermission.* Review (exam Wednesday; no class Friday; no exercise)                | None      |
 | 10/16/23   | Recent variants of differential privacy                                              | Ch. 8     |
