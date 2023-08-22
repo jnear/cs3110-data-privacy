@@ -69,14 +69,16 @@ By the end of this course, you will be able to:
 ## Resources
 
 - **Course textbook** is available [online](https://programming-dp.com) or as a [PDF](https://github.com/uvm-plaid/programming-dp/blob/master/book.pdf)
-- **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/launcher?type=Course&id=_171840_1)
+- **Brightspace** for the course:
+  - [CS 3110 (undergrad section)](https://brightspace.uvm.edu/d2l/home/31545)
+  - [CS 5110 (graduate section)](https://brightspace.uvm.edu/d2l/home/31615)
 - **Course Github Repo** [is available here](https://github.com/jnear/cs3110-data-privacy)
 - **Weekly exercises**
   - [Download exercises here](https://github.com/jnear/cs3110-data-privacy/tree/master/exercises)
-  - Turn in notebook files on Blackboard
+  - Turn in notebook files on Brightspace
 - **Homework assignments** 
   - [Download notebooks here](https://github.com/jnear/cs3110-data-privacy/tree/master/homework)
-  - Turn in notebook files on Blackboard
+  - Turn in notebook files on Brightspace
 - **Discussions** will take place on MS Teams
 - **Slides** from lecture are available [here](https://github.com/jnear/cs3110-data-privacy/tree/master/slides)
 - **Review Sheets** for exams:
@@ -174,12 +176,12 @@ here](https://jnear.github.io/cs3110-data-privacy/jupyter) for
 instructions on installing Jupyter Notebook.
 
 **Assignment Submission**: Homework and in-class exercises will be
-turned in via Blackboard.
+turned in via Brightspace.
 
 To submit an assignment:
 
 1. Complete the released Jupyter Notebook by filling in answers to all the questions
-2. Submit the notebook file (the .ipynb file) as your solution on Blackboard
+2. Submit the notebook file (the .ipynb file) as your solution on Brightspace
 
 *Please* do not change the name of the .ipynb file. This makes the
 grading process more difficult.
