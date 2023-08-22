@@ -1,4 +1,4 @@
-# Exam 2 Topic List
+# Exam 2 Topic List (Fall 2022)
 
 ## Local Sensitivity
 

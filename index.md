@@ -1,9 +1,9 @@
 ---
-title: CS 211 Data Privacy
+title: CS 3110/5110 Data Privacy
 layout: default
 ---
 
-# UVM CS 211: Data Privacy (Fall 2022)
+# UVM CS 3110/5110: Data Privacy (Fall 2022)
 
   * [Course Description](#course-description)
   * [Administrative](#administrative)
@@ -70,18 +70,18 @@ By the end of this course, you will be able to:
 
 - **Course textbook** is available [online](https://programming-dp.com) or as a [PDF](https://github.com/uvm-plaid/programming-dp/blob/master/book.pdf)
 - **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/launcher?type=Course&id=_171840_1)
-- **Course Github Repo** [is available here](https://github.com/jnear/cs211-data-privacy)
+- **Course Github Repo** [is available here](https://github.com/jnear/cs3110-data-privacy)
 - **Weekly exercises**
-  - [Download exercises here](https://github.com/jnear/cs211-data-privacy/tree/master/exercises)
+  - [Download exercises here](https://github.com/jnear/cs3110-data-privacy/tree/master/exercises)
   - Turn in notebook files on Blackboard
 - **Homework assignments** 
-  - [Download notebooks here](https://github.com/jnear/cs211-data-privacy/tree/master/homework)
+  - [Download notebooks here](https://github.com/jnear/cs3110-data-privacy/tree/master/homework)
   - Turn in notebook files on Blackboard
 - **Discussions** will take place on MS Teams
-- **Slides** from lecture are available [here](https://github.com/jnear/cs211-data-privacy/tree/master/slides)
+- **Slides** from lecture are available [here](https://github.com/jnear/cs3110-data-privacy/tree/master/slides)
 - **Review Sheets** for exams:
-  - [Exam 1](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam1-review.md)
-  - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md)
+  - [Exam 1](https://github.com/jnear/cs3110-data-privacy/blob/master/slides/exam1-review.md)
+  - [Exam 2](https://github.com/jnear/cs3110-data-privacy/blob/master/slides/exam2-review.md)
 
 ## Textbook & Other References
 
@@ -105,11 +105,11 @@ In addition to these, we will reference a number of academic papers throughout t
 
 ### Links and Helpful Resources
 
- - [How to set up Jupyter Notebooks](https://jnear.github.io/cs211-data-privacy/jupyter)
- - [Definitions and formulas](https://github.com/jnear/cs211-data-privacy/blob/master/slides/formulas.pdf) that may be helpful on quizzes and exams
+ - [How to set up Jupyter Notebooks](https://jnear.github.io/cs3110-data-privacy/jupyter)
+ - [Definitions and formulas](https://github.com/jnear/cs3110-data-privacy/blob/master/slides/formulas.pdf) that may be helpful on quizzes and exams
  - [Notes on probability distributions](https://www3.nd.edu/~rwilliam/stats1/x11.pdf)
- - [Intro to differentially private machine learning](https://github.com/jnear/cs211-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb)
- - [Variants of differential privacy](https://github.com/jnear/cs211-data-privacy/blob/master/slides/privacy_definitions.pdf)
+ - [Intro to differentially private machine learning](https://github.com/jnear/cs3110-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb)
+ - [Variants of differential privacy](https://github.com/jnear/cs3110-data-privacy/blob/master/slides/privacy_definitions.pdf)
 
 ## Policies
 
@@ -170,7 +170,7 @@ This course will use Python for examples and for programming
 assignments.  Students are expected to be proficient in Python
 programming.  Programming assignments will be distributed and turned
 in as Jupyter notebooks. [Click
-here](https://jnear.github.io/cs211-data-privacy/jupyter) for
+here](https://jnear.github.io/cs3110-data-privacy/jupyter) for
 instructions on installing Jupyter Notebook.
 
 **Assignment Submission**: Homework and in-class exercises will be
@@ -214,7 +214,7 @@ The course will include a final project, completed in groups of 1-3 students.
 The final project will demonstrate your mastery of the concepts covered in this course
 by implementing a practical system to perform privacy-preserving analysis of realistic data.
 
-Click [here](https://jnear.github.io/cs211-data-privacy/projects) for more complete information.
+Click [here](https://jnear.github.io/cs3110-data-privacy/projects) for more complete information.
 
 ## CS Student Research Day & Extra Credit
 
@@ -249,20 +249,20 @@ Exam dates:
 
 Homework dates:
 
-| Item                                                                                              | Due Date |
-| -----------------------------------------------------------------------------------------:        | -------- |
-| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_1.ipynb)   | 9/12/22  |
-| [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_2.ipynb)   | 9/19/22  |
-| [Homework 3](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_3.ipynb)   | 9/26/22  |
-| [Homework 4](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_4.ipynb)   | 10/3/22  |
-| [Homework 5](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_5.ipynb)   | 10/17/22 |
-| [Homework 6](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_6.ipynb)   | 10/24/22 |
-| [Homework 7](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_7.ipynb)   | 10/31/22 |
-| [Homework 8](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_8.ipynb)   | 11/7/22  |
-| [Homework 9](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_9.ipynb)   | 11/14/22 |
-| [Homework 10](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_10.ipynb) | 12/5/22  |
-| Project proposals                                                                                 | 11/18/22 |
-| Final project writeup/video/implementation                                                        | 12/12/22 |
+| Item                                                                                       | Due Date |
+| -----------------------------------------------------------------------------------------: | -------- |
+| Homework 1                                                                                 | 9/12/22  |
+| Homework 2                                                                                 | 9/19/22  |
+| Homework 3                                                                                 | 9/26/22  |
+| Homework 4                                                                                 | 10/3/22  |
+| Homework 5                                                                                 | 10/17/22 |
+| Homework 6                                                                                 | 10/24/22 |
+| Homework 7                                                                                 | 10/31/22 |
+| Homework 8                                                                                 | 11/7/22  |
+| Homework 9                                                                                 | 11/14/22 |
+| Homework 10                                                                                | 12/5/22  |
+| Project proposals                                                                          | 11/18/22 |
+| Final project writeup/video/implementation                                                 | 12/12/22 |
 
 Schedule of topics:
 
