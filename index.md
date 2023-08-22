@@ -3,7 +3,7 @@ title: CS 3110/5110 Data Privacy
 layout: default
 ---
 
-# UVM CS 3110/5110: Data Privacy (Fall 2022)
+# UVM CS 3110/5110: Data Privacy (Fall 2023)
 
   * [Course Description](#course-description)
   * [Administrative](#administrative)
@@ -218,24 +218,31 @@ Click [here](https://jnear.github.io/cs3110-data-privacy/projects) for more comp
 
 ## CS Student Research Day & Extra Credit
 
-We will **not hold class** on **Friday, September 23**. I encourage you
+We will **not hold class** on **Friday, September 15**. I encourage you
 to attend [CS Student Research
-Day](https://www.uvm.edu/~jonaolap/csrd/2022.html) and learn about
+Day](TBD) and learn about
 the awesome research being done by CS students at UVM!
 
 - If you attend **two full sessions** of talks (~4 talks), **take
   brief notes on the talks you hear**, and **send the notes to me via
-  email by 11:59pm on September 23**, I will give **1% extra credit to
+  email by 11:59pm on September 16**, I will give **1% extra credit to
   your final grade in the course**
 
 ## Schedule
 
 Note that class will **not** be held on the following dates:
 
-- Monday, September 5 (Labor Day)
-- Friday, September 23 (please attend [CS Student Research Day](https://www.uvm.edu/~jonaolap/csrd/2022.html))
-- Friday, October 14 (Fall Recess)
-- November 21-25 (Thanksgiving)
+- Monday, September 4 (Labor Day)
+- Friday, September 15 (please attend [CS Student Research Day](TBD)
+- Friday, October 13 (Fall Recess)
+- November 20-24 (Thanksgiving)
+
+Note that class will be **asynchronous** on the following dates:
+
+- Wednesday, September 27
+- Friday, September 29
+- Friday, October 27
+- Monday, October 30
 
 Important due dates:
 
@@ -244,45 +251,45 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Wednesday, October 12, during class (Dewey 314)
-- Final exam: December 15, 10:30am - 11:30am (Dewey 314)
+- Midterm exam: Wednesday, October 11, during class (Dewey 314)
+- Final exam: December 11, 1:30pm - 2:30pm (Dewey 314)
 
 Homework dates:
 
 | Item                                                                                       | Due Date |
 | -----------------------------------------------------------------------------------------: | -------- |
-| Homework 1                                                                                 | 9/12/22  |
-| Homework 2                                                                                 | 9/19/22  |
-| Homework 3                                                                                 | 9/26/22  |
-| Homework 4                                                                                 | 10/3/22  |
-| Homework 5                                                                                 | 10/17/22 |
-| Homework 6                                                                                 | 10/24/22 |
-| Homework 7                                                                                 | 10/31/22 |
-| Homework 8                                                                                 | 11/7/22  |
-| Homework 9                                                                                 | 11/14/22 |
-| Homework 10                                                                                | 12/5/22  |
-| Project proposals                                                                          | 11/18/22 |
-| Final project writeup/video/implementation                                                 | 12/12/22 |
+| Homework 1                                                                                 | 9/11/23  |
+| Homework 2                                                                                 | 9/18/23  |
+| Homework 3                                                                                 | 9/25/23  |
+| Homework 4                                                                                 | 10/2/23  |
+| Homework 5                                                                                 | 10/16/23 |
+| Homework 6                                                                                 | 10/23/23 |
+| Homework 7                                                                                 | 10/30/23 |
+| Homework 8                                                                                 | 11/6/23  |
+| Homework 9                                                                                 | 11/13/23 |
+| Homework 10                                                                                | 12/4/23  |
+| Project proposals                                                                          | 11/17/23 |
+| Final project writeup/video/implementation                                                 | 12/11/23 |
 
 Schedule of topics:
 
-| Week of... | Topics                                                                                          | Reference |
-| ---------: | ------------------------------------------------------------------------------------            | --------- |
-| 8/29/22    | Intro to data privacy; de-identification; re-identification (no exercise)                       | Ch. 1     |
-| 9/5/22     | k-Anonymity and l-Diversity (no class Monday)                                                   | Ch. 2     |
-| 9/12/22    | Intro to differential privacy                                                                   | Ch. 3     |
-| 9/19/22    | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget (no class Friday) | Ch. 4, 5  |
-| 9/26/22    | Sensitivity & clipping; approximate DP; Advanced composition; Gaussian mechanism                | Ch. 6     |
-| 10/3/22    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate               | Ch. 7     |
-| 10/10/22   | *Intermission.* Review (exam Wednesday; no class Friday; no exercise)                           | None      |
-| 10/17/22   | Recent variants of differential privacy                                                         | Ch. 8     |
-| 10/24/22   | Exponential mechanism; sparse vector technique                                                  | Ch. 9, 10 |
-| 10/31/22   | Privacy-preserving machine learning; differentially private SGD                                 | Ch. 12    |
-| 11/7/22    | Local differential privacy                                                                      | Ch. 13    |
-| 11/14/22   | Differentially private synthetic data                                                           | Ch. 14    |
-| 11/21/22   | No class (Thanksgiving)                                                                         |           |
-| 11/28/22   | Privacy in deep learning; Practical systems for privacy                                         |           |
-| 12/5/22    | Open challenges; review                                                                         |           |
+| Week of... | Topics                                                                               | Reference |
+| ---------: | ------------------------------------------------------------------------------------ | --------- |
+| 8/28/23    | Intro to data privacy; de-identification; re-identification (no exercise)            | Ch. 1     |
+| 9/4/23     | k-Anonymity and l-Diversity (no class Monday)                                        | Ch. 2     |
+| 9/11/23    | Intro to differential privacy; sensitivity; Laplace mechanism                        | Ch. 3     |
+| 9/18/23    | Post-processing; composition & privacy budget; unit of privacy (no class Friday)     | Ch. 4, 5  |
+| 9/25/23    | Sensitivity & clipping; approximate DP; Advanced composition; Gaussian mechanism     | Ch. 6     |
+| 10/2/23    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | Ch. 7     |
+| 10/9/23    | *Intermission.* Review (exam Wednesday; no class Friday; no exercise)                | None      |
+| 10/16/23   | Recent variants of differential privacy                                              | Ch. 8     |
+| 10/23/23   | Exponential mechanism; sparse vector technique                                       | Ch. 9, 10 |
+| 10/30/23   | Privacy-preserving machine learning; differentially private SGD                      | Ch. 12    |
+| 11/6/23    | Local differential privacy                                                           | Ch. 13    |
+| 11/13/23   | Differentially private synthetic data                                                | Ch. 14    |
+| 11/20/23   | No class (Thanksgiving)                                                              |           |
+| 11/27/23   | Privacy in deep learning; Practical systems for privacy                              |           |
+| 12/4/23    | Open challenges; review                                                              |           |
 
 # Accommodations
 
