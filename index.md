@@ -62,7 +62,7 @@ By the end of this course, you will be able to:
 
 - **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, at Dewey Hall 314
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Graduate Teaching Assistant**: Protiva Sen
+- **Graduate Teaching Assistant**: Nikhilsai Reddy Choppa
 - **Office hours**: 
   - **Joe Near** (instructor): Mondays and Fridays, 9:30am-10:30am, and by appointment; Innovation Hall E458 (or MS Teams)
 
