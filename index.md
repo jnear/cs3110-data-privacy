@@ -258,20 +258,20 @@ Exam dates:
 
 Homework dates:
 
-| Item                                                                                       | Due Date |
-| -----------------------------------------------------------------------------------------: | -------- |
-| Homework 1                                                                                 | 9/11/23  |
-| Homework 2                                                                                 | 9/18/23  |
-| Homework 3                                                                                 | 9/25/23  |
-| Homework 4                                                                                 | 10/2/23  |
-| Homework 5                                                                                 | 10/16/23 |
-| Homework 6                                                                                 | 10/23/23 |
-| Homework 7                                                                                 | 10/30/23 |
-| Homework 8                                                                                 | 11/6/23  |
-| Homework 9                                                                                 | 11/13/23 |
-| Homework 10                                                                                | 12/4/23  |
-| Project proposals                                                                          | 11/17/23 |
-| Final project writeup/video/implementation                                                 | 12/11/23 |
+|                                                                                            Item | Due Date |
+|------------------------------------------------------------------------------------------------:|----------|
+| [Homework 1](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_1.ipynb) | 9/11/23  |
+|                                                                                      Homework 2 | 9/18/23  |
+|                                                                                      Homework 3 | 9/25/23  |
+|                                                                                      Homework 4 | 10/2/23  |
+|                                                                                      Homework 5 | 10/16/23 |
+|                                                                                      Homework 6 | 10/23/23 |
+|                                                                                      Homework 7 | 10/30/23 |
+|                                                                                      Homework 8 | 11/6/23  |
+|                                                                                      Homework 9 | 11/13/23 |
+|                                                                                     Homework 10 | 12/4/23  |
+|                                                                               Project proposals | 11/17/23 |
+|                                                      Final project writeup/video/implementation | 12/11/23 |
 
 Schedule of topics:
 
