@@ -261,7 +261,7 @@ Homework dates:
 |                                                                                            Item | Due Date |
 |------------------------------------------------------------------------------------------------:|----------|
 | [Homework 1](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_1.ipynb) | 9/11/23  |
-|                                                                                      Homework 2 | 9/18/23  |
+| [Homework 2](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_2.ipynb) | 9/18/23  |
 |                                                                                      Homework 3 | 9/25/23  |
 |                                                                                      Homework 4 | 10/2/23  |
 |                                                                                      Homework 5 | 10/16/23 |
