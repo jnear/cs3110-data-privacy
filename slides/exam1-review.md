@@ -1,4 +1,4 @@
-# Exam 1 Topic List (Fall 2022)
+# Exam 1 Topic List (Fall 2023)
 
 ## Informal Notions of Data Privacy
 
@@ -14,6 +14,7 @@
 ## Differential Privacy & its Properties
 
 - Definition
+- Unit of privacy
 - Sequential composition
 - Parallel composition
 - Post-processing
