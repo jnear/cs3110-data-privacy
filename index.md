@@ -164,7 +164,7 @@ points. This percentage is translated into a letter grade as follows:
 
 ### Exams & Quizzes
 
-There will be two exams: a midterm and a final. You will be allowed one page of notes for each exam. See the schedule below for the dates.
+There will be two exams: a midterm and a final. You will be allowed unlimited notes for each exam (but please don't print a whole book). See the schedule below for the dates.
 
 ### Homework Assignments and In-class Exercises
 
