@@ -188,7 +188,7 @@ grading process more difficult.
 
 Please let me know if you have any questions about the submission process.
 
-The grading rubric for homework assignment problems is as follows:
+**Grading rubric**:
 
 100% - Correct or with minor issues
  - Code: runs without error, appears correct or with only minor issues
