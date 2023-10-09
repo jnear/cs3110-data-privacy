@@ -188,6 +188,27 @@ grading process more difficult.
 
 Please let me know if you have any questions about the submission process.
 
+The grading rubric for homework assignment problems is as follows:
+
+100% - Correct or with minor issues
+ - Code: runs without error, appears correct or with only minor issues
+ - Written: coherent and correct, perhaps with minor details missing
+
+75% - Main idea on the right path, with parts incorrect
+ - Code: appears complete and appears to implement the right idea;
+   code may throw errors and give incorrect results
+ - Written: gets the main idea mostly correct; addresses all or nearly
+   all of the required points; may contain some conceptual errors
+
+50% - Decent start, but misses the main idea
+ - Code: appears to attempt to implement an approximation of the right
+   idea; code may be incomplete and not run at all
+ - Written: attempts to approximate the main idea; may avoid
+   addressing many required points; may contain major conceptual
+   errors
+
+0% - Missing/no answer
+
 ### Late Work
 
 Late work *may* be accepted, but you *must* make arrangements with me
