@@ -209,6 +209,20 @@ Please let me know if you have any questions about the submission process.
 
 0% - Missing/no answer
 
+**Solutions and feedback**: Homework solutions will be posted on
+Brightspace under "homework solutions." Grades will be posted on
+Brightspace. To see your graded assignment, visit the following link:
+
+```
+https://jnear.w3.uvm.edu/cs3110_feedback/<your-netid-here>
+```
+
+Replace `<your-netid-here>` with your actual netid. You will need to
+log in using your UVM credentials to view your graded assignments. If
+you have questions about how a question was graded, or if you spot a
+mistake in grading, please let me know.
+
+
 ### Late Work
 
 Late work *may* be accepted, but you *must* make arrangements with me
