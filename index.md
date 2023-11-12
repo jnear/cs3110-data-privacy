@@ -304,7 +304,7 @@ Homework dates:
 | [Homework 7](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_7.ipynb) | 11/1/23 |
 | [Homework 8](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_8.ipynb) | 11/6/23  |
 | [Homework 9](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_9.ipynb) | 11/13/23 |
-|                                                                                     Homework 10 | 12/4/23  |
+| [Homework 10](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_10.ipynb) | 12/4/23  |
 |                                                                               Project proposals | 11/17/23 |
 |                                                      Final project writeup/video/implementation | 12/11/23 |
 
