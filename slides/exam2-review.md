@@ -57,6 +57,11 @@
 
 - Definition (in terms of neighboring datasets)
 - Evaluating a unit of privacy: "user-level" vs others
+- Common units
+  - User-level (individual-level)
+  - Row-level
+  - User-day-level
+  - User-month-level
 - Transforming the unit of privacy
   - Bounding user contribution & adjusting sensitivity
 
