@@ -59,7 +59,7 @@
 - Evaluating a unit of privacy: "user-level" vs others
 - Common units
   - User-level (individual-level)
-  - Row-level
+  - Row-level (event-level)
   - User-day-level
   - User-month-level
 - Transforming the unit of privacy
