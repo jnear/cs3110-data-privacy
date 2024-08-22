@@ -3,7 +3,7 @@ title: CS 3110/5110 Data Privacy
 layout: default
 ---
 
-# UVM CS 3110/5110: Data Privacy (Fall 2023)
+# UVM CS 3110/5110: Data Privacy (Fall 2024)
 
   * [Course Description](#course-description)
   * [Administrative](#administrative)
@@ -62,7 +62,7 @@ By the end of this course, you will be able to:
 
 - **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, at Dewey Hall 314
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Graduate Teaching Assistant**: Nikhilsai Reddy Choppa
+- **Graduate Teaching Assistant**: TBA
 - **Office hours**: 
   - **Joe Near** (instructor): Mondays and Fridays, 9:30am-10:30am, and by appointment; Innovation Hall E458 (or MS Teams)
 
@@ -70,8 +70,8 @@ By the end of this course, you will be able to:
 
 - **Course textbook** is available [online](https://programming-dp.com) or as a [PDF](https://github.com/uvm-plaid/programming-dp/blob/master/book.pdf)
 - **Brightspace** for the course:
-  - [CS 3110 (undergrad section)](https://brightspace.uvm.edu/d2l/home/31545)
-  - [CS 5110 (graduate section)](https://brightspace.uvm.edu/d2l/home/31615)
+  - [CS 3110 (undergrad section)](TBA)
+  - [CS 5110 (graduate section)](TBA)
 - **Course Github Repo** [is available here](https://github.com/jnear/cs3110-data-privacy)
 - **Weekly exercises**
   - [Download exercises here](https://github.com/jnear/cs3110-data-privacy/tree/master/exercises)
@@ -253,33 +253,13 @@ by implementing a practical system to perform privacy-preserving analysis of rea
 
 Click [here](https://jnear.github.io/cs3110-data-privacy/projects) for more complete information.
 
-## CS Student Research Day & Extra Credit
-
-We will **not hold class** on **Friday, September 15**. I encourage you
-to attend [CS Student Research
-Day](https://go.uvm.edu/6v091) and learn about
-the awesome research being done by CS students at UVM!
-
-- If you attend **one full session** of talks (or 4 talks total), **take
-  brief notes on the talks you hear**, and **send the notes to me via
-  email by 11:59pm on September 16**, I will give **1% extra credit to
-  your final grade in the course**
-
 ## Schedule
 
 Note that class will **not** be held on the following dates:
 
-- Monday, September 4 (Labor Day)
-- Friday, September 15 (please attend [CS Student Research Day](https://go.uvm.edu/6v091)
-- Friday, October 13 (Fall Recess)
-- November 20-24 (Thanksgiving)
-
-Note that class will be **asynchronous** on the following dates:
-
-- Wednesday, September 27
-- Friday, September 29
-- Friday, October 27
-- Monday, October 30
+- Monday, September 2 (Labor Day)
+- Friday, October 11 (Fall Recess)
+- November 25-29 (Thanksgiving)
 
 Important due dates:
 
@@ -288,45 +268,45 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Wednesday, October 11, during class (Dewey 314)
-- Final exam: December 11, 1:30pm - 2:30pm (Dewey 314)
+- Midterm exam: Friday, October 11, during class (Dewey 314)
+- Final exam: December 10, 1:30pm - 2:30pm (Dewey 314)
 
 Homework dates:
 
-|                                                                                            Item | Due Date |
-|------------------------------------------------------------------------------------------------:|----------|
-| [Homework 1](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_1.ipynb) | 9/11/23  |
-| [Homework 2](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_2.ipynb) | 9/18/23  |
-| [Homework 3](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_3.ipynb) | 9/25/23  |
-| [Homework 4](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_4.ipynb) | 10/2/23  |
-| [Homework 5](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_5.ipynb) | 10/16/23 |
-| [Homework 6](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_6.ipynb) | 10/23/23 |
-| [Homework 7](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_7.ipynb) | 11/1/23 |
-| [Homework 8](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_8.ipynb) | 11/6/23  |
-| [Homework 9](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_9.ipynb) | 11/13/23 |
-| [Homework 10](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_10.ipynb) | 12/4/23  |
-|                                                                               Project proposals | 11/17/23 |
-|                                                      Final project writeup/video/implementation | 12/11/23 |
+|                                                                                              Item | Due Date |
+|--------------------------------------------------------------------------------------------------:|----------|
+|   [Homework 1](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_1.ipynb) | 9/9/24   |
+|   [Homework 2](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_2.ipynb) | 9/16/24  |
+|   [Homework 3](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_3.ipynb) | 9/23/24  |
+|   [Homework 4](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_4.ipynb) | 9/30/24  |
+|   [Homework 5](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_5.ipynb) | 10/14/24 |
+|   [Homework 6](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_6.ipynb) | 10/21/24 |
+|   [Homework 7](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_7.ipynb) | 10/28/24 |
+|   [Homework 8](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_8.ipynb) | 11/4/24  |
+|   [Homework 9](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_9.ipynb) | 11/11/24 |
+| [Homework 10](https://github.com/jnear/cs3110-data-privacy/blob/main/homework/CS3110_HW_10.ipynb) | 11/18/24 |
+|                                                                                 Project proposals | 11/22/24 |
+|                                                        Final project writeup/video/implementation | 12/9/24 |
 
 Schedule of topics:
 
-| Week of... | Topics                                                                               | Reference |
-| ---------: | ------------------------------------------------------------------------------------ | --------- |
-| 8/28/23    | Intro to data privacy; de-identification; re-identification (no exercise)            | Ch. 1     |
-| 9/4/23     | k-Anonymity and l-Diversity (no class Monday)                                        | Ch. 2     |
-| 9/11/23    | Intro to differential privacy; Laplace mechanism (no class Friday)                   | Ch. 3     |
-| 9/18/23    | Sensitivity; post-processing; composition & privacy budget; unit of privacy          | Ch. 4, 5  |
-| 9/25/23    | Clipping; approximate DP; Advanced composition; Gaussian mechanism                   | Ch. 6     |
-| 10/2/23    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | Ch. 7     |
-| 10/9/23    | *Intermission.* Review (exam Wednesday; no class Friday; no exercise)                | None      |
-| 10/16/23   | Recent variants of differential privacy                                              | Ch. 8     |
-| 10/23/23   | Exponential mechanism; sparse vector technique                                       | Ch. 9, 10 |
-| 10/30/23   | Privacy-preserving machine learning; differentially private SGD                      | Ch. 12    |
-| 11/6/23    | Local differential privacy                                                           | Ch. 13    |
-| 11/13/23   | Differentially private synthetic data                                                | Ch. 14    |
-| 11/20/23   | No class (Thanksgiving)                                                              |           |
-| 11/27/23   | Privacy in deep learning; Practical systems for privacy                              |           |
-| 12/4/23    | Open challenges; review                                                              |           |
+| Week of... | Topics                                                                            | Reference |
+|-----------:|-----------------------------------------------------------------------------------|-----------|
+|    8/26/24 | Intro to data privacy; de-identification; re-identification (no exercise)         | Ch. 1     |
+|     9/2/24 | k-Anonymity and l-Diversity (no class Monday)                                     | Ch. 2     |
+|     9/9/24 | Intro to differential privacy; Laplace mechanism                                  | Ch. 3     |
+|    9/16/24 | Sensitivity; post-processing; composition & privacy budget; unit of privacy       | Ch. 4, 5  |
+|    9/23/24 | Clipping; approximate DP; Advanced composition; Gaussian mechanism                | Ch. 6     |
+|    9/30/24 | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate | Ch. 7     |
+|    10/7/24 | *Intermission.* Review (no exercise; exam Friday)                                 | None      |
+|   10/14/24 | Recent variants of differential privacy                                           | Ch. 8     |
+|   10/21/24 | Exponential mechanism; sparse vector technique                                    | Ch. 9, 10 |
+|   10/28/24 | Privacy-preserving machine learning; differentially private SGD                   | Ch. 12    |
+|    11/4/24 | Local differential privacy                                                        | Ch. 13    |
+|   11/11/24 | Differentially private synthetic data                                             | Ch. 14    |
+|   11/18/24 | Privacy in deep learning; Practical systems for privacy                           |           |
+|   11/25/24 | No class (Thanksgiving)                                                           |           |
+|    12/2/24 | Open challenges; review                                                           |           |
 
 # Accommodations
 
