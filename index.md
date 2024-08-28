@@ -268,7 +268,7 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Friday, October 11, during class (Dewey 314)
+- Midterm exam: Wednesday, October 9, during class (Dewey 314)
 - Final exam: December 10, 1:30pm - 2:30pm (Dewey 314)
 
 Homework dates:
@@ -298,7 +298,7 @@ Schedule of topics:
 |    9/16/24 | Sensitivity; post-processing; composition & privacy budget; unit of privacy       | Ch. 4, 5  |
 |    9/23/24 | Clipping; approximate DP; Advanced composition; Gaussian mechanism                | Ch. 6     |
 |    9/30/24 | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate | Ch. 7     |
-|    10/7/24 | *Intermission.* Review (no exercise; exam Friday)                                 | None      |
+|    10/7/24 | *Intermission.* Review (no exercise; exam Wednesday; no class Friday)             | None      |
 |   10/14/24 | Recent variants of differential privacy                                           | Ch. 8     |
 |   10/21/24 | Exponential mechanism; sparse vector technique                                    | Ch. 9, 10 |
 |   10/28/24 | Privacy-preserving machine learning; differentially private SGD                   | Ch. 12    |
