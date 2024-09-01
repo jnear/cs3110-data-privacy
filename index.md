@@ -70,8 +70,8 @@ By the end of this course, you will be able to:
 
 - **Course textbook** is available [online](https://programming-dp.com) or as a [PDF](https://github.com/uvm-plaid/programming-dp/blob/master/book.pdf)
 - **Brightspace** for the course:
-  - [CS 3110 (undergrad section)](TBA)
-  - [CS 5110 (graduate section)](TBA)
+  - [CS 3110 (undergrad section)](https://brightspace.uvm.edu/d2l/home/89959)
+  - [CS 5110 (graduate section)](https://brightspace.uvm.edu/d2l/home/89961)
 - **Course Github Repo** [is available here](https://github.com/jnear/cs3110-data-privacy)
 - **Weekly exercises**
   - [Download exercises here](https://github.com/jnear/cs3110-data-privacy/tree/master/exercises)
