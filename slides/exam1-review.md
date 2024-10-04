@@ -1,4 +1,14 @@
-# Exam 1 Topic List (Fall 2023)
+# Exam 1 Topic List (Fall 2024)
+
+# Format
+
+- Open notes: bring as much printed material as you want
+- Closed computers / phones / everything else
+- Should take only 30-40 minutes
+- If you successfully completed the homework assignments, the questions should be easy
+- Liberal partial credit applied - if unsure, explain your reasoning (even for multiple-choice questions)
+
+# Topics
 
 ## Informal Notions of Data Privacy
 
