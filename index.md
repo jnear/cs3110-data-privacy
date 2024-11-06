@@ -8,15 +8,14 @@ layout: default
   * [Course Description](#course-description)
   * [Administrative](#administrative)
   * [Resources](#resources)
-  * [Textbook & Other References](#textbook---other-references)
+  * [Textbook & Other References](#textbook--other-references)
   * [Policies](#policies)
     + [Grading](#grading)
-    + [Exams & Quizzes](#exams---quizzes)
+    + [Exams & Quizzes](#exams--quizzes)
     + [Homework Assignments and In-class Exercises](#homework-assignments-and-in-class-exercises)
     + [Late Work](#late-work)
     + [Collaboration & Allowed References](#collaboration--allowed-references)
   * [Final Projects](#final-projects)
-  * [CS Student Research Day & Extra Credit](#cs-student-research-day--extra-credit)
   * [Schedule](#schedule)
 
 ## Course Description
