@@ -61,7 +61,6 @@ By the end of this course, you will be able to:
 
 - **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, at Dewey Hall 314
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Graduate Teaching Assistant**: TBA
 - **Office hours**: 
   - **Joe Near** (instructor): Mondays and Fridays, 9:30am-10:30am, and by appointment; Innovation Hall E458 (or MS Teams)
 
@@ -69,8 +68,8 @@ By the end of this course, you will be able to:
 
 - **Course textbook** is available [online](https://programming-dp.com) or as a [PDF](https://github.com/uvm-plaid/programming-dp/blob/master/book.pdf)
 - **Brightspace** for the course:
-  - [CS 3110 (undergrad section)](https://brightspace.uvm.edu/d2l/home/89959)
-  - [CS 5110 (graduate section)](https://brightspace.uvm.edu/d2l/home/89961)
+  - [CS 3110 (undergrad section)](https://brightspace.uvm.edu/d2l/home/130484)
+  - [CS 5110 (graduate section)](https://brightspace.uvm.edu/d2l/home/130503)
 - **Course Github Repo** [is available here](https://github.com/jnear/cs3110-data-privacy)
 - **Weekly exercises**
   - [Download exercises here](https://github.com/jnear/cs3110-data-privacy/tree/master/exercises)
