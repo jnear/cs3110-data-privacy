@@ -1,4 +1,4 @@
-# Final Project Information (Fall 2024)
+# Final Project Information (Fall 2025)
 
 ## Schedule & Requirements
 
@@ -29,9 +29,9 @@ The final project is worth 10% of your final grade. The schedule for final proje
 
 |                Deliverable | Due Date            | Grade Percent | Turn In     |
 |---------------------------:|---------------------|---------------|-------------|
-|           Project Proposal | 11/22/24 by 11:59pm | 10%           | Brightspace |
-| Project Presentation Video | 12/9/24 by 11:59pm  | 30%           | Brightspace |
-|   Implementation + Writeup | 12/9/24 at 11:59pm  | 60%           | Brightspace |
+|           Project Proposal | 11/21/25 by 11:59pm | 10%           | Brightspace |
+| Project Presentation Video | 12/8/25 by 11:59pm  | 30%           | Brightspace |
+|   Implementation + Writeup | 12/8/25 at 11:59pm  | 60%           | Brightspace |
 
 
 ### Graduate Students
