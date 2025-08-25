@@ -5,14 +5,9 @@
 First, install the Anaconda distribution of Python, which includes
 Jupyter Notebook.
 
-Here are links to the installation instructions for different
-operating systems:
+[Click here for the installation instructions](https://docs.anaconda.com/anaconda/install/)
 
-- [Click here for Windows](https://docs.anaconda.com/anaconda/install/windows/)
-- [Click here for MacOS](https://docs.anaconda.com/anaconda/install/mac-os/#using-the-command-line-install) - make sure to use the *command line installer*
-- [Click here for Linux](https://docs.anaconda.com/anaconda/install/linux/)
-
-The Anaconda package includes Jupyter Notebook.
+The Anaconda package includes Jupyter Notebook, or makes it easy to install.
 
 ## Step 2: Verify Anaconda
 
@@ -45,3 +40,6 @@ Run the Jupyter Notebook server to start using notebooks.
 The notebook server should start, and the Jupyter Notebook file
 browser should load in your web browser.
 
+If you get a "command not found" error, run the command `pip install
+jupyter` to install Jupyter Notebook, then try the above command
+again.
