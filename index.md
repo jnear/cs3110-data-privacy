@@ -288,23 +288,23 @@ Homework dates:
 
 Schedule of topics:
 
-| Week of... | Topics                                                                            | Reference |
-|-----------:|-----------------------------------------------------------------------------------|-----------|
-|    8/25/25 | Intro to data privacy; de-identification; re-identification (no exercise)         | Ch. 1     |
-|     9/1/25 | k-Anonymity and l-Diversity (no class Monday)                                     | Ch. 2     |
-|     9/8/25 | Intro to differential privacy; Laplace mechanism                                  | Ch. 3     |
-|    9/15/25 | Sensitivity; post-processing; composition & privacy budget; unit of privacy       | Ch. 4, 5  |
-|    9/22/25 | Clipping; approximate DP; Advanced composition; Gaussian mechanism                | Ch. 6     |
-|    9/29/25 | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate | Ch. 7     |
-|    10/6/25 | *Intermission.* Review (no exercise; exam Wednesday; no class Friday)             | None      |
-|   10/13/25 | Recent variants of differential privacy                                           | Ch. 8     |
-|   10/20/25 | Exponential mechanism; sparse vector technique                                    | Ch. 9, 10 |
-|   10/27/25 | Privacy-preserving machine learning; differentially private SGD                   | Ch. 12    |
-|    11/3/25 | Local differential privacy                                                        | Ch. 13    |
-|   11/10/25 | Differentially private synthetic data                                             | Ch. 14    |
-|   11/17/25 | Privacy in deep learning; Practical systems for privacy                           |           |
-|   11/24/25 | No class (Thanksgiving)                                                           |           |
-|    12/1/25 | Open challenges; review                                                           |           |
+| Week of... | Topics                                                                      | Reference |
+|-----------:|-----------------------------------------------------------------------------|-----------|
+|    8/25/25 | Intro to data privacy; de-identification; re-identification (no exercise)   | Ch. 1     |
+|     9/1/25 | k-Anonymity and l-Diversity (no class Monday)                               | Ch. 2     |
+|     9/8/25 | Intro to differential privacy; Laplace mechanism                            | Ch. 3     |
+|    9/15/25 | Sensitivity; post-processing; composition & privacy budget; unit of privacy | Ch. 4, 5  |
+|    9/22/25 | Clipping; arguing for correctness; parallel composition; histograms         | Ch. 6     |
+|    9/29/25 | Approximate DP; Advanced composition; Gaussian mechanism; unit of privacy   | Ch. 6     |
+|    10/6/25 | *Intermission.* Review (no exercise; exam Wednesday; no class Friday)       | None      |
+|   10/13/25 | Recent variants of differential privacy                                     | Ch. 8     |
+|   10/20/25 | Exponential mechanism; sparse vector technique                              | Ch. 9, 10 |
+|   10/27/25 | Privacy-preserving machine learning; differentially private SGD             | Ch. 12    |
+|    11/3/25 | Local differential privacy                                                  | Ch. 13    |
+|   11/10/25 | Differentially private synthetic data                                       | Ch. 14    |
+|   11/17/25 | Privacy in deep learning; Practical systems for privacy                     |           |
+|   11/24/25 | No class (Thanksgiving)                                                     |           |
+|    12/1/25 | Open challenges; review                                                     |           |
 
 # Accommodations
 
