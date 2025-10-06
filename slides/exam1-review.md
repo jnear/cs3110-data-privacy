@@ -1,4 +1,4 @@
-# Exam 1 Topic List (Fall 2024)
+# Exam 1 Topic List (Fall 2025)
 
 # Format
 
