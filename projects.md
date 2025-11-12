@@ -33,6 +33,12 @@ The final project is worth 10% of your final grade. The schedule for final proje
 | Project Presentation Video | 12/8/25 by 11:59pm  | 30%           | Brightspace |
 |   Implementation + Writeup | 12/8/25 at 11:59pm  | 60%           | Brightspace |
 
+### CS Fair Participation
+
+To encourage participation in the [CS Fair](https://csfair.w3.uvm.edu/home):
+
+- If you *submit and present* your final project in the course to the CS Fair, you will receive 2% extra credit on your final grade
+- If you *win a prize* for your final project at the CS Fair, you will receive an additional 3% extra credit on your final grade (total of 5% extra credit)
 
 ### Graduate Students
 
@@ -53,6 +59,14 @@ You're welcome to work on any project interesting to you, as long as it's relate
   - Consider the way the guarantee is communicated
     - Is there missing information?
     - Is the communication misleading?
+
+### Submission to the OpenDP Deployments Registry (suggested option)
+
+  - Find a deployment *not* currently listed on the [OpenDP Deployments Registry](http://registry.opendp.org/) (maybe from [Damien's list](https://desfontain.es/privacy/real-world-differential-privacy.html))
+  - Fill out the [deployment registry template](https://github.com/opendp/deployments-registry-data/blob/main/tests/good_deployments/template.yaml) with information about the deployment
+  - Produce a writeup that documents the justification and source of information for each element of the template
+  - Note: there's a lot of overlap with the critique option above, and doing both is a great option for graduate students or larger teams
+  - After the course concludes, I will work to get these deployments listed in the registry itself (with acknowledgment to you as the author)
 
 ### Analysis of a *new* dataset, with differential privacy (suggested option)
 

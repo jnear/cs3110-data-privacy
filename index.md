@@ -247,7 +247,7 @@ All academic integrity misconduct will be treated according to [UVM's Code of Ac
 
 The course will include a final project, completed in groups of 1-3 students.
 The final project will demonstrate your mastery of the concepts covered in this course
-by implementing a practical system to perform privacy-preserving analysis of realistic data.
+by implementing or discussing a practical system to perform privacy-preserving analysis of realistic data.
 
 Click [here](https://jnear.github.io/cs3110-data-privacy/projects) for more complete information.
 

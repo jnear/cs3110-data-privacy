@@ -12,7 +12,7 @@
 
 ## Informal Notions of Data Privacy
 
-- De-identification / anonymizaion / removing PII
+- De-identification / anonymization / removing PII
 - Re-identification: Linkage attacks / auxiliary information attacks
 
 ## K-Anonymity
