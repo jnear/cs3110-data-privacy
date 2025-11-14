@@ -23,6 +23,10 @@ The goal of the final project is for you to build a complete system that accompl
   - You can use any language or libraries you prefer, but a Python notebook will make grading easier
   - If your project is a critique of an existing system, no implementation is required (unless it helps support your conclusions)
 
+### Project Scope & Size
+
+Each person in your group should spend roughly 1 homework assignment worth of time on the final project (i.e. project size scales linearly with group size). The intent is for it to be possible to complete the project in roughly a week - it is not intended to be a large multi-week project. For graduate students, you should expect to spend roughly 1.5 homework assignments worth of time, to achieve a more ambitious project.
+
 ### Schedule & Grading
 
 The final project is worth 10% of your final grade. The schedule for final project deliverables, and the contribution of each one to the grade you receive for the final project, are as follows:
