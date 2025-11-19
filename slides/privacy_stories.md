@@ -30,3 +30,13 @@
     - Statisticians often ignore error entirely
   - Lesson: existing sources of error are often larger (and more bias-y) than differential privacy noise
   - Lesson: [communicating about error is really difficult](https://www.pnas.org/doi/pdf/10.1073/pnas.2302491120)!
+
+## Unit of Privacy in Google Mobility Data
+
+- ["Hierarchical organization of urban mobility and its connection with city livability"](https://www.nature.com/articles/s41467-019-12809-y) performed an analysis of a differentially private dataset
+  - The dataset used a complicated unit of privacy (not person-level)
+  - The paper wasn't completely clear about the unit of privacy
+- ["On the difficulty of achieving Differential Privacy in practice: user-level guarantees in aggregate location data"](https://www.nature.com/articles/s41467-021-27566-0) claimed (carefully, because it was misleading) to "break" the differential privacy guarantee
+- [A reply by the original authors](https://www.nature.com/articles/s41467-021-27567-z) clarified the unit of privacy
+- Lesson: communicating about differential privacy is hard, even for experts!
+- Lesson: unit of privacy matters at least as much as epsilon!
