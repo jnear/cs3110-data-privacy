@@ -58,6 +58,7 @@
 - [VaultGemma](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/) uses a "sequence-level" unit of privacy
 - If you write a book, you're definitely not getting person-level (or even book-level) privacy!
 - [User-level training is more difficult](https://arxiv.org/abs/2406.14322) than other units
+- [There are many other privacy challenges](https://arxiv.org/abs/2510.01645) in ML right now
 
 ## Combining Cryptography with Differential Privacy
 
