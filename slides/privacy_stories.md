@@ -52,6 +52,13 @@
 - [Lots of deployments have event-level units of privacy!](https://registry.opendp.org/deployments-registry/)
 - This is a worrying trend that increases the risk of [privacy theater](https://dl.acm.org/doi/10.1145/3555762)
 
+## Units of Privacy in Machine Learning
+
+- In most systems, unit of privacy is "one training example"
+- [VaultGemma](https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/) uses a "sequence-level" unit of privacy
+- If you write a book, you're definitely not getting person-level (or even book-level) privacy!
+- [User-level training is more difficult](https://arxiv.org/abs/2406.14322) than other units
+
 ## Combining Cryptography with Differential Privacy
 
 - Secure aggregation: individuals submit encrypted values; untrusted server computes and decrypts the sum, but can't view individual submissions
