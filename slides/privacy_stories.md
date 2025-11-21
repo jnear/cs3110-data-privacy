@@ -40,3 +40,20 @@
 - [A reply by the original authors](https://www.nature.com/articles/s41467-021-27567-z) clarified the unit of privacy
 - Lesson: communicating about differential privacy is hard, even for experts!
 - Lesson: unit of privacy matters at least as much as epsilon!
+
+## Unit of Privacy in Apple's Emoji System
+
+- [Apple uses local DP for emoji popularity](https://www.apple.com/privacy/docs/Differential_Privacy_Overview.pdf) with a user-day privacy unit
+- [There is actually an attack](https://www.usenix.org/conference/usenixsecurity22/presentation/gadotti) on this system, that leverages the weak privacy unit
+- Lesson: units of privacy other than user-level are dangerous!
+
+## Units of Privacy in General
+
+- [Lots of deployments have event-level units of privacy!](https://registry.opendp.org/deployments-registry/)
+- This is a worrying trend that increases the risk of [privacy theater](https://dl.acm.org/doi/10.1145/3555762)
+
+## Combining Cryptography with Differential Privacy
+
+- Secure aggregation: individuals submit encrypted values; untrusted server computes and decrypts the sum, but can't view individual submissions
+- [Google's Gboard](https://research.google/blog/improving-gboard-language-models-via-private-federated-analytics/) uses [central-model noise with secure aggregation](https://research.google/blog/distributed-differential-privacy-for-federated-learning/)
+- [Apple memories](https://machinelearning.apple.com/research/scenes-differential-privacy) also uses secure aggregation
