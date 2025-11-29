@@ -1,12 +1,4 @@
-# Exam 2 Topic List (Fall 2024)
-
-## Local Sensitivity
-
-- Definition & difference from global sensitivity
-- Challenges (e.g. leaks information about the data)
-- Propose-test-release
-- Smooth sensitivity
-- Sample and aggregate
+# Exam 2 Topic List (Fall 2025)
 
 ## Variants of Differential Privacy
 
