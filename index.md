@@ -258,6 +258,7 @@ Note that class will **not** be held on the following dates:
 - Monday, September 1 (Labor Day)
 - Friday, October 10 (Fall Recess)
 - November 24-28 (Thanksgiving)
+- Friday, December 5 (CS Fair)
 
 Important due dates:
 
@@ -304,7 +305,7 @@ Schedule of topics:
 |   11/10/25 | Differentially private synthetic data                                       | Ch. 14    |
 |   11/17/25 | Privacy in deep learning; Practical systems for privacy                     |           |
 |   11/24/25 | No class (Thanksgiving)                                                     |           |
-|    12/1/25 | Open challenges; review                                                     |           |
+|    12/1/25 | Open challenges; review (no class Friday - see you at CS Fair!)             |           |
 
 # Accommodations
 
