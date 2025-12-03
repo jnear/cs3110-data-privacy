@@ -65,3 +65,24 @@
 - Secure aggregation: individuals submit encrypted values; untrusted server computes and decrypts the sum, but can't view individual submissions
 - [Google's Gboard](https://research.google/blog/improving-gboard-language-models-via-private-federated-analytics/) uses [central-model noise with secure aggregation](https://research.google/blog/distributed-differential-privacy-for-federated-learning/)
 - [Apple memories](https://machinelearning.apple.com/research/scenes-differential-privacy) also uses secure aggregation
+
+## How Should We Set Epsilon?
+
+- [Lots of deployments use large epsilons](https://desfontain.es/blog/large-epsilons.html)
+
+## Privacy Attacks
+
+- [Membership inference attacks on machine learning models](https://arxiv.org/abs/2112.03570) have been successful in many contexts
+- [Similar attacks on (non-DP) synthetic data](https://arxiv.org/abs/2011.07018)
+- [Empirical privacy metrics](https://desfontain.es/blog/bad-ugly-good-maybe.html) are basically attacks, and some are better than others
+- [Membership inference and DP distinguishability are the most fundamental attacks](https://arxiv.org/abs/2212.10986); defense against membership inference implies defense against other attacks
+- [Attribute inference](https://arxiv.org/abs/2209.01292) is arguably not a privacy issue at all
+  - If not, then what even is privacy????
+
+## Privacy in the Law
+
+- [GDPR in Europe](https://gdpr-info.eu/) requires data to be "anonymized" before sharing
+  - What is "anonymized"? Does this actually *require* differential privacy?
+- [CCPA in California](https://www.oag.ca.gov/privacy/ccpa) has similar requirements
+- We haven't made much progress beyond these
+- [Companies are spending lots of money](https://www.politico.com/news/2024/09/17/andrew-kingman-data-privacy-lobbying-00179630) to make sure privacy legislation doesn't happen
