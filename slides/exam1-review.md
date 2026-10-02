@@ -1,5 +1,7 @@
 # Exam 1 Topic List (Fall 2026)
 
+[Click here for the practice exam](exam1_practice.pdf)
+
 # Format
 
 - Open notes: bring as much printed material as you want
