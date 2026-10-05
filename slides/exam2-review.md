@@ -9,10 +9,16 @@
 
 # Topics
 
+## Parallel Composition
+
+- Definition / theorem
+- Histograms and their sensitivity
+
 ## (ε, δ)-Differential Privacy
 
 - Definition
 - Gaussian mechanism
+- L1 / L2 sensitivity of vector-valued functions
 - Advanced composition
 - Advantages and disadvantages (e.g. failure probability)
 

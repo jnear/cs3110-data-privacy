@@ -28,14 +28,12 @@
 - Definition
 - Unit of privacy
 - Sequential composition
-- Parallel composition
 - Post-processing
 - Analyzing the privacy cost of programs
 
 ## Global Sensitivity
 
 - Sensitivity of real-valued functions
-- L1 / L2 sensitivity of vector-valued functions
 - Sensitivity of various functions (count, sum, mean, histograms)
 
 ## Clipping and Histograms
@@ -43,5 +41,3 @@
 - Clipping (methods; information loss vs sensitivity)
 - Adaptive clipping
 - Arguing for correctness
-- Parallel composition
-- Histograms and their sensitivity
