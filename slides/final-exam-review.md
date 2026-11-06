@@ -11,7 +11,9 @@
 
 ## Local Differential Privacy
 
-- Threat-model and accuracy tradeoffs
+- Tradeoffs of local differential privacy
+  - Huge benefit: threat model
+  - Huge drawback: accuracy
 - Randomized response
 - Unary encoding
 

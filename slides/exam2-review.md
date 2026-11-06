@@ -43,14 +43,6 @@
   - How to bound the sensitivity of the gradient (clipping the gradient's L2 norm)
   - Composition issues and best privacy variants
 
-## Local Differential Privacy
-
-- Tradeoffs of local differential privacy
-  - Huge benefit: threat model
-  - Huge drawback: accuracy
-- Randomized response
-- Unary encoding
-
 ## Units of Privacy
 
 - Definition (in terms of neighboring datasets)
