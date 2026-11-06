@@ -1,9 +1,12 @@
 # Exam 2 Topic List (Fall 2026)
 
+[Click here for the practice exam](exam2_practice.pdf)
+
 # Format
 
 - Open notes: bring as much printed material as you want
 - Closed computers / phones / everything else
+- If you successfully completed the homework assignments, the questions should be easy
 - Liberal partial credit applied - if unsure, explain your reasoning (even for multiple-choice questions)
 
 # Topics
