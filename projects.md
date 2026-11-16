@@ -1,4 +1,4 @@
-# Final Project Information (Fall 2025)
+# Final Project Information (Fall 2026)
 
 ## Schedule & Requirements
 
@@ -70,7 +70,6 @@ You're welcome to work on any project interesting to you, as long as it's relate
   - Fill out the [deployment registry template](https://github.com/opendp/deployments-registry-data/blob/main/tests/good_deployments/template.yaml) with information about the deployment
   - Produce a writeup that documents the justification and source of information for each element of the template
   - Note: there's a lot of overlap with the critique option above, and doing both is a great option for graduate students or larger teams
-  - After the course concludes, I will work to get these deployments listed in the registry itself (with acknowledgment to you as the author)
 
 ### Analysis of a *new* dataset, with differential privacy (suggested option)
 
@@ -92,6 +91,13 @@ You're welcome to work on any project interesting to you, as long as it's relate
     - COMPAS: connection between race and score (e.g. following [Propublica's analysis](https://github.com/propublica/compas-analysis/blob/master/Compas%20Analysis.ipynb)); use Laplace and/or Gaussian mechanisms
     - Kaggle datasets: differentially private gradient descent
     - UCI ML datasets: differentially private gradient descent (look for larger datasets, > 1000 samples)
+
+### Build a *deployment* of a privacy-preserving system
+  - Build an actual plausible system you could demo
+  - Great option for CS Fair projects
+  - Might involve web app, mobile app, backend server(s)
+  - Potential for AI assistance (probably too much work without it) - document carefully in your writeup
+  - Examples: Apple emojis or iconic photos, Rappor system in Chromium, OhmConnect, others in the DP Registry
 
 ### Implementation of a *new* differentially private algorithm (challenging)
 
